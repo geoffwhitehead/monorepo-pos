@@ -45,7 +45,7 @@
         "helmet": "^3.21.2",
         "jsonschema": "1.2.5",
         "jsonwebtoken": "^8.5.1",
-        "lodash": "^4.17.15",
+        "lodash": "^4.17.21",
         "mongodb": "^3.5.2",
         "mongoose": "^5.9.9",
         "morgan": "^1.9.1",
